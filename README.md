@@ -1,28 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! I'm Nyl Ryan, a Full Stack Developer from Pernambuco, Brazil 🇧🇷</h2>
-
-###
-
-<h3 data-importer="text" align="left">💼 Work — Myndware</h3>
-
-###
-
-<p data-importer="text" align="left">I build the CRM for the Myndware platform: Vue 3 components, a Quasar + Pinia front-end, a Capacitor mobile app, offline sync with PowerSync and a Node.js + Hapi + MongoDB back-end, tested with Vitest and Docker.</p>
-
-###
-
-<h3 data-importer="text" align="left">🎓 University — Computer Science (UNICAP)</h3>
-
-###
-
-<p data-importer="text" align="left">Projects: academias-publicas-pe (JavaScript) · botao_emergencia (HTML/JS) · bibliotecaoff (Java) · linear data structures (C) · G.R.A. Store (Python/SQL)</p>
-
-###
-
-<h3 data-importer="text" align="left">📚 Currently learning</h3>
-
-###
-
-<p data-importer="text" align="left">Vue 3 & Quasar architecture · AI-assisted development · MongoDB data modeling</p>
+<h1 data-importer="text" align="left">Nyl Ryan. I don't write code — I build what wins.</h1>
 
 ###
 
