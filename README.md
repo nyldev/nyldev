@@ -9,7 +9,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/b4n0im.gif"  />
+<img data-importer="image" align="right" height="150" src="hero.gif"  />
 
 ###
 
